@@ -43,6 +43,9 @@
 
 Além da tela apresentada, na pasta do projeto, tem-se esse relatório mais detalhado em target -> site -> jacoco -> index.html
 
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/99b96442-9774-4010-a92c-b824c00a8f7f" alt="jacoco" />
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/d90f1e11-dcae-4111-a23e-d20c1a975ee7" alt="jacoco" />
+
 - [x] Inspeção pelo Metrics 
 
 
