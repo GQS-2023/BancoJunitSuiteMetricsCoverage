@@ -37,7 +37,8 @@
 <p align="center">
     <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/1e2b69a4-b37a-4450-9f11-849318824234" alt="jacoco" />
 </p>
-      
+
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/370287c6-df92-4442-9c39-5e3a1e36fefa" alt="jacoco" />
 - [x] Inspeção pelo Metrics 
 
 
