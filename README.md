@@ -33,7 +33,23 @@
 ### ⚙️ Funcionalidades
 
 - [x] Relatório usando Code Coverage Jacoco
-- Para gerar o relatório de teste de cobertura, clique com o botão esquerdo sobre o projeto no Netbeans, vá até Code Coverage e Show Reports, conforme a imagem a seguir:
+
+- Para gerar o relatório de teste de cobertura, adicione o plugin "jacoco-maven-plugin" ao projeto.
+            <plugin>
+                <groupId>org.jacoco</groupId>
+                <artifactId>jacoco-maven-plugin</artifactId>
+                <version>0.8.11</version>
+                <executions>
+                    <execution>
+                        <goals>
+                            <goal>prepare-agent</goal>
+                            <goal>report</goal>
+                        </goals>
+                    </execution>
+                </executions>
+            </plugin>
+
+- Depois clique com o botão esquerdo sobre o projeto no Netbeans, vá até Code Coverage e Show Reports, conforme a imagem a seguir:
 
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/71c0e31c-710a-4fbe-a423-619ccacaeb64" alt="jacoco" />
 
@@ -54,7 +70,7 @@ Além da tela apresentada, na pasta do projeto, tem-se esse relatório mais deta
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
 [Java](https://www.oracle.com/br/java/technologies/downloads/), [Apache Netbeans] (https://netbeans.apache.org/) 
 1. Esse projeto usa Maven, para isso siga as orientações a seguir:
-   - Adicionar as dependências (maven-surefire-plugin, junit-jupiter-api, junit-jupiter-engine, org.hamcrest, junit-platform-suite-api, junit-platform-suite-engine,metrics-core) no arquivo pom.xml do projeto. Consulte a dependência em https://mvnrepository.com/
+   - Adicionar as dependências (maven-surefire-plugin, junit-jupiter-api, junit-jupiter-engine, org.hamcrest, junit-platform-suite-api, junit-platform-suite-engine, metrics-core) no arquivo pom.xml do projeto. Consulte a dependência em https://mvnrepository.com/
    - Adicionar plugin (maven-surefire-plugin, jacoco-maven-plugin) no build do arquivo pom.xml do projeto. 
    - A organização do projeto segue a seguinte estrutura:
      - Projeto
