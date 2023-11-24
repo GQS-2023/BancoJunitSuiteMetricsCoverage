@@ -35,9 +35,7 @@
 - [x] Relatório usando Code Coverage Jacoco
 
 <p align="center">
-  <a href="https://unform.dev">
-    <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/1e2b69a4-b37a-4450-9f11-849318824234" height="150" width="175" alt="banco" />
-  </a>
+    <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/1e2b69a4-b37a-4450-9f11-849318824234" alt="jacoco" />
 </p>
       
 - [x] Inspeção pelo Metrics 
