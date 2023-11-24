@@ -53,6 +53,13 @@ Além da tela apresentada, na pasta do projeto, tem-se esse relatório mais deta
 
 - [x] Inspeção pelo Metrics 
 
+Para inspecionar o código da aplicação criada
+
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/38ae21a9-4481-4c77-be52-a6d23fa70fdc" alt="metrics" />
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/5028c0f6-4abb-4c5f-b8ef-2e2b28092440" alt="metrics" />
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/7223462d-895a-4c66-b8a8-0d00d51bf3ad" alt="metrics" />
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/9d6bc90f-7355-4b16-9e93-acec2934051d" alt="metrics" />
+
 
 # ✨ Pré-requisitos
 
