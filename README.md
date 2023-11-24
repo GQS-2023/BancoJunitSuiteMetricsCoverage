@@ -35,19 +35,8 @@
 - [x] Relatório usando Code Coverage Jacoco
 
 - Para gerar o relatório de teste de cobertura, adicione o plugin "jacoco-maven-plugin" ao projeto.
-            <plugin>
-                <groupId>org.jacoco</groupId>
-                <artifactId>jacoco-maven-plugin</artifactId>
-                <version>0.8.11</version>
-                <executions>
-                    <execution>
-                        <goals>
-                            <goal>prepare-agent</goal>
-                            <goal>report</goal>
-                        </goals>
-                    </execution>
-                </executions>
-            </plugin>
+
+<img src="" alt="jacoco" />
 
 - Depois clique com o botão esquerdo sobre o projeto no Netbeans, vá até Code Coverage e Show Reports, conforme a imagem a seguir:
 
