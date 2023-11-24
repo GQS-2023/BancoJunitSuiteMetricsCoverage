@@ -92,6 +92,7 @@ A ferramenta JavaMetrics calcula uma série de métricas úteis para conjuntos d
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/38ae21a9-4481-4c77-be52-a6d23fa70fdc" alt="metrics" />
 
 - Analise as observações e melhore o código!
+- Aqui será mostrado a aplicação Banco Junit Suite já com as alterações para melhorar o código.
 
 # ✨ Pré-requisitos
 
