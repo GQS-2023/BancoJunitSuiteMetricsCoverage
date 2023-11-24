@@ -34,6 +34,8 @@
 
 - [x] Relatório usando Code Coverage Jacoco
 
+  As métricas de cobertura de teste são usadas para medir e monitorar sua atividade de teste.
+
 - Para gerar o relatório de teste de cobertura, adicione o plugin "jacoco-maven-plugin" ao projeto.
 
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/7ffb876a-31ed-4cc7-90b5-feb86c7245b8" height="350" width="550" alt="jacoco" />
@@ -52,13 +54,33 @@ Além da tela apresentada, na pasta do projeto, tem-se esse relatório mais deta
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/d90f1e11-dcae-4111-a23e-d20c1a975ee7" alt="jacoco" />
 
 - [x] Inspeção pelo Metrics 
+A ferramenta JavaMetrics calcula uma série de métricas úteis para conjuntos de código-fonte de programas Java. É um membro da família de ferramentas de métricas de código-fonte da SD.
+
+- Recursos de métricas Java
+	- Operação repetível em um conjunto especificado de arquivos
+	- Métricas calculadas no nível do módulo:
+	- Linhas de código fonte (SLOC)
+	- Linhas de código fonte não comentadas
+	- Linhas de comentários
+	- Número de métodos
+	- Densidade de Decisão
+	- Complexidade ciclomática
+	- Aninhamento máximo de loop
+	- Aninhamento condicional máximo
+	- Medidas Halstead (volume, dificuldade e esforço)
+	- Índice de Manutenção do Instituto de Engenharia de Software (SEI)
+	- Contagens de classes, pacotes e arquivos
+	- Métricas de aninhamento de pior caso identificadas para arquivo/linha específico
+	- Resumos por classe/arquivo/pacote
+	- Relatório de texto
+	- Relatório XML, reformatável da forma desejada (exemplo)
 
 Para inspecionar o código da aplicação criada
 
-<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/38ae21a9-4481-4c77-be52-a6d23fa70fdc" alt="metrics" />
-<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/5028c0f6-4abb-4c5f-b8ef-2e2b28092440" alt="metrics" />
-<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/7223462d-895a-4c66-b8a8-0d00d51bf3ad" alt="metrics" />
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/9d6bc90f-7355-4b16-9e93-acec2934051d" alt="metrics" />
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/7223462d-895a-4c66-b8a8-0d00d51bf3ad" alt="metrics" />
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/5028c0f6-4abb-4c5f-b8ef-2e2b28092440" alt="metrics" />
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/38ae21a9-4481-4c77-be52-a6d23fa70fdc" alt="metrics" />
 
 
 # ✨ Pré-requisitos
