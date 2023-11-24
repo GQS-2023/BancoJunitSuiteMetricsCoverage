@@ -36,7 +36,7 @@
 
 - Para gerar o relatório de teste de cobertura, adicione o plugin "jacoco-maven-plugin" ao projeto.
 
-<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/fe202473-6911-4d46-a4f9-5fbe70e60741" alt="jacoco" />
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/fe202473-6911-4d46-a4f9-5fbe70e60741" height="350" width="200" alt="jacoco" />
 
 - Depois clique com o botão esquerdo sobre o projeto no Netbeans, vá até Code Coverage e Show Reports, conforme a imagem a seguir:
 
