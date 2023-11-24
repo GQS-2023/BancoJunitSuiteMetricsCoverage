@@ -75,13 +75,23 @@ A ferramenta JavaMetrics calcula uma série de métricas úteis para conjuntos d
 	- Relatório de texto
 	- Relatório XML, reformatável da forma desejada (exemplo)
 
-Para inspecionar o código da aplicação criada
+- Para inspecionar o código da aplicação criada acesse na barra de menus do Netbeans Source -> Inspect. 
 
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/9d6bc90f-7355-4b16-9e93-acec2934051d" alt="metrics" />
+
+- Defina o projeto que deseja inspecionar em "scope" e use a congiguração Default e clique em "Manage".
+  
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/7223462d-895a-4c66-b8a8-0d00d51bf3ad" alt="metrics" />
+
+- Em Analyzer, escolha "Netbeans Java Hints" e em inspections, marque "Java Code Metrics" e clique em  "OK" e na tela anterior clique em "Inspect".
+
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/5028c0f6-4abb-4c5f-b8ef-2e2b28092440" alt="metrics" />
+
+- A aba "Inpector" será mostrada e caso tenha alguma observação será mostrada nessa tela. 
+
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/38ae21a9-4481-4c77-be52-a6d23fa70fdc" alt="metrics" />
 
+-
 
 # ✨ Pré-requisitos
 
