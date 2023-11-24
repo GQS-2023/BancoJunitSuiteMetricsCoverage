@@ -87,11 +87,11 @@ A ferramenta JavaMetrics calcula uma série de métricas úteis para conjuntos d
 
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/5028c0f6-4abb-4c5f-b8ef-2e2b28092440" alt="metrics" />
 
-- A aba "Inpector" será mostrada e caso tenha alguma observação será mostrada nessa tela. 
+- A aba "Inpector" será exibida e caso tenha alguma observação será mostrada nessa tela. 
 
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/38ae21a9-4481-4c77-be52-a6d23fa70fdc" alt="metrics" />
 
--
+- Analise as observações e melhore o código!
 
 # ✨ Pré-requisitos
 
