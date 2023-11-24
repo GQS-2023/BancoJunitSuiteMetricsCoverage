@@ -33,12 +33,16 @@
 ### ⚙️ Funcionalidades
 
 - [x] Relatório usando Code Coverage Jacoco
+- Para gerar o relatório de teste de cobertura, clique com o botão esquerdo sobre o projeto no Netbeans, vá até Code Coverage e Show Reports, conforme a imagem a seguir:
 
-<p align="center">
-    <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/1e2b69a4-b37a-4450-9f11-849318824234" alt="jacoco" />
-</p>
+<img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/71c0e31c-710a-4fbe-a423-619ccacaeb64" alt="jacoco" />
+
+- A seguinte tela aparecerá mostrando uma tabela com os nomes das classes do projeto, na coluna "Coverage", a porcentagem de teste de cobertura realizado em cada classe. Na coluna "Total", mostra o número de linhas passíveis de teste e na coluna "Not Executed" exibe quantas das linhas não foram testadas. 
 
 <img src="https://github.com/GQS-2023/BancoJunitSuiteMetricsCoverage/assets/45953979/370287c6-df92-4442-9c39-5e3a1e36fefa" alt="jacoco" />
+
+Além da tela apresentada, na pasta do projeto, tem-se esse relatório mais detalhado em target -> site -> jacoco -> index.html
+
 - [x] Inspeção pelo Metrics 
 
 
